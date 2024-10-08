@@ -1,5 +1,6 @@
 # 용사 파티 키우기
-![HeroRaisingGraphicImage](https://github.com/user-attachments/assets/ec7858ba-6daf-46c7-804f-5e1c6fdcbb98)
+
+![1](https://github.com/user-attachments/assets/67f2ac6f-2c39-4972-9683-fddc8ec7a4aa)
 
 ---
 ## 목차
@@ -19,7 +20,8 @@
 
 ---
 ## 1. 프로젝트 소개
-![소개이미지](https://github.com/user-attachments/assets/a4ad43bc-7ee0-4608-b150-43b712888b68)
+
+![2](https://github.com/user-attachments/assets/d68782d9-01fb-40e9-8811-5398bbdab711)
 
 🔃손쉬운 조작
 
@@ -52,33 +54,31 @@
 ---
 ## 2. 주요 기능
 
-![메인화면](https://github.com/user-attachments/assets/bfd7ae42-b118-4708-b7ba-4d2d77610650)
+![3](https://github.com/user-attachments/assets/bbe3248c-a801-4065-bd6c-d725298f5960)
+
 
 
 ### 성장
   
-  ![성장](https://github.com/user-attachments/assets/097132fc-7e29-4440-ae0e-abdd4455873a)
+  ![4](https://github.com/user-attachments/assets/42585b89-a0cc-4ea7-a5a2-dd9941220572)
 
   훈련 - 획득한 골드를 소모하여 각종 스탯을 업그레이드합니다.
   
   특성 - 각 특성마다 정해진 시간을 들여 연구를 완료하여 파티를 강화합니다.
 
 ### 파티 & 동료모집
-
-  ![파티](https://github.com/user-attachments/assets/136bb767-45b6-42fd-a9a8-5833786efbad)
+  ![5](https://github.com/user-attachments/assets/2a9e832f-c5d8-4241-8efa-13b9f8941a4f)
 
   동료 모집을 통해 파티원이 될 영웅들을 소집하고 파티 메뉴에서 함께 전투를 진행할 영웅을 선택합니다.
 
 ### 스킬
-
-  ![스킬](https://github.com/user-attachments/assets/8f894471-b8de-4ebb-8b16-9acd1e12c0b5)
+  ![6](https://github.com/user-attachments/assets/4005df4d-77b7-4932-998a-c3de65d85149)
 
 
   스테이지를 클리어하여 용사의 스킬을 해금하고 다양한 스킬을 사용하여 적들을 물리칠 수 있습니다.
 
 ### 장비
-
-  ![장비](https://github.com/user-attachments/assets/22babc18-b25f-47f5-9948-18265a0e87ed)
+  ![7](https://github.com/user-attachments/assets/a9c88701-6e2c-44bf-918d-38b19b590cc4)
 
 
   가운데 미믹에게 전투를 통해 얻은 마석을 이용하여 미믹을 클릭하여 장비를 획득하고
