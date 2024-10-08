@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 358f75b99add151488b0fb396904153a, type: 3}
+  m_Name: 004_Bash
+  m_EditorClassIdentifier: 
+  Type: 2
+  HeroId: 0
+  SkillId: 4
+  Rarity: 3
+  SkillMoveSpeed: 0
+  ChannelingTime: 0.3
+  SkillRange: 2
+  Name: "\uBC00\uCE58\uAE30"
+  Description: "\uC55E\uC758 \uC801\uC744 \uBC00\uCE58\uACE0 {0}\uCD08 \uB3D9\uC548
+    \uACF5\uACA9\uB825\uC744 {1}% \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+  Passive: 
+  Icon: {fileID: 21300000, guid: e2cee2b046a39e344b5bdf82fdfd27f3, type: 3}
+  DamageMultiplier:
+    DefaultValue: 120
+    ModifierPerGrade: 5
+  TicDamageMultiplier: 0
+  EndDamageMultiplier: 0
+  Interval: 0

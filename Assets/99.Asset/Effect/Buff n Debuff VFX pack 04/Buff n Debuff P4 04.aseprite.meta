@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 1f9088607af58244e87648139d645e6f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Buff n Debuff P4 04_Frame_0
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.3611111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 58
+      height: 36
+    spriteID: 778dfd70362107c47b15c5f3921875cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Buff n Debuff P4 04_Frame_1
+    originalName: 
+    pivot: {x: 0.5652174, y: -1.4444444}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 163
+      width: 46
+      height: 9
+    spriteID: e8861c4976735214698061fc2c99d711
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 163}
+  - name: Buff n Debuff P4 04_Frame_2
+    originalName: 
+    pivot: {x: 0.5283019, y: -0.7647059}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 132
+      width: 53
+      height: 17
+    spriteID: 693c5a340267c374c888ad66000c3e73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 132}
+  - name: Buff n Debuff P4 04_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.72727275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 93
+      width: 56
+      height: 22
+    spriteID: eb5fb12c41f50ff4a801837c0d49a4bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 93}
+  - name: Buff n Debuff P4 04_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.90909094}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 93
+      width: 56
+      height: 22
+    spriteID: db36699d7888a8a40a6f947e3f51c616
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 93}
+  - name: Buff n Debuff P4 04_Frame_5
+    originalName: 
+    pivot: {x: 0.49090907, y: -1.3684211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 93
+      width: 55
+      height: 19
+    spriteID: 8f6b716f4e6fa954fb2e50d101d9e009
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 93}
+  - name: Buff n Debuff P4 04_Frame_6
+    originalName: 
+    pivot: {x: 0.4509804, y: -1.5789474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 132
+      width: 51
+      height: 19
+    spriteID: 6108ccc5e54fd214c856aafcbd209d84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 132}
+  - name: Buff n Debuff P4 04_Frame_7
+    originalName: 
+    pivot: {x: 0.37777779, y: -1.882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 163
+      width: 45
+      height: 17
+    spriteID: 512782dd093b9874583addb96b7edc6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 163}
+  - name: Buff n Debuff P4 04_Frame_8
+    originalName: 
+    pivot: {x: 0.35897437, y: -5.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 163
+      width: 39
+      height: 8
+    spriteID: 1753eda72f5eaaa4198458223405c1ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 163}
+  - name: Buff n Debuff P4 04_Frame_9
+    originalName: 
+    pivot: {x: 0.6666667, y: -15.333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 151
+      width: 21
+      height: 3
+    spriteID: fd8aad58af5449e4d8db15243ffe95bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 151}
+  - name: Buff n Debuff P4 04_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.3611111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 4
+      width: 56
+      height: 36
+    spriteID: 2b8ced53353f69d4aaef979a40b854dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 4}
+  - name: Buff n Debuff P4 04_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.3611111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 4
+      width: 56
+      height: 36
+    spriteID: 99d2011abaed3024d99b1b2b0b179bf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 4}
+  - name: Buff n Debuff P4 04_Frame_12
+    originalName: 
+    pivot: {x: 0.80769235, y: -0.5833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 188
+      width: 26
+      height: 24
+    spriteID: 7a6a26a2929c3ec4482112f2aacfea4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 188}
+  - name: Buff n Debuff P4 04_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.41935483}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 93
+      width: 46
+      height: 31
+    spriteID: 9b079e6d276a4ee4ba8a4e25e305af7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 93}
+  - name: Buff n Debuff P4 04_Frame_14
+    originalName: 
+    pivot: {x: 0.46938774, y: -0.41935483}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 48
+      width: 49
+      height: 31
+    spriteID: 362e6694ea6ba9946a07eb8fdf4b29db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 48}
+  - name: Buff n Debuff P4 04_Frame_15
+    originalName: 
+    pivot: {x: 0.4509804, y: -0.34285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 4
+      width: 51
+      height: 35
+    spriteID: dd6a7ae26addc064989f0f1e9d3c7527
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 4}
+  - name: Buff n Debuff P4 04_Frame_16
+    originalName: 
+    pivot: {x: 0.4509804, y: -0.32432434}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 48
+      width: 51
+      height: 37
+    spriteID: f804888be3df5254ea5e60fd23fcde13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 48}
+  - name: Buff n Debuff P4 04_Frame_17
+    originalName: 
+    pivot: {x: 0.4509804, y: -0.35135135}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 48
+      width: 51
+      height: 37
+    spriteID: 604196e3f503830409922ac2816582ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 48}
+  - name: Buff n Debuff P4 04_Frame_18
+    originalName: 
+    pivot: {x: 0.4509804, y: -0.35135135}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 48
+      width: 51
+      height: 37
+    spriteID: b7e4cee272044ca4bacff936ff1bb014
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 48}
+  - name: Buff n Debuff P4 04_Frame_19
+    originalName: 
+    pivot: {x: 0.37777779, y: -1.2173914}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 132
+      width: 45
+      height: 23
+    spriteID: a5b562354f9ff5243b67e42199a3440b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 132}
+  - name: Buff n Debuff P4 04_Frame_20
+    originalName: 
+    pivot: {x: 0.37777779, y: -1.2173914}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 132
+      width: 45
+      height: 23
+    spriteID: 887c08f3b2a9ebf47918ba090ba3505f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 132}
+  - name: Buff n Debuff P4 04_Frame_21
+    originalName: 
+    pivot: {x: 1.5454546, y: -3.6363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 132
+      width: 11
+      height: 11
+    spriteID: a3171458e1d3d7d469dba6f0686f13c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 132}
+  - name: Buff n Debuff P4 04_Frame_22
+    originalName: 
+    pivot: {x: 1.7, y: -4.4444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 48
+      width: 10
+      height: 9
+    spriteID: 140539158f98f0043aec66c0a3db2dfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 48}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1442884179
+    name: Buff n Debuff P4 04
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Buff n Debuff P4 04_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 13
+        width: 58
+        height: 36
+      spriteId: 778dfd70362107c47b15c5f3921875cb
+    - name: Buff n Debuff P4 04_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 13
+        width: 46
+        height: 9
+      spriteId: e8861c4976735214698061fc2c99d711
+    - name: Buff n Debuff P4 04_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 4
+        y: 13
+        width: 53
+        height: 17
+      spriteId: 693c5a340267c374c888ad66000c3e73
+    - name: Buff n Debuff P4 04_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 4
+        y: 16
+        width: 56
+        height: 22
+      spriteId: eb5fb12c41f50ff4a801837c0d49a4bc
+    - name: Buff n Debuff P4 04_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 4
+        y: 20
+        width: 56
+        height: 22
+      spriteId: db36699d7888a8a40a6f947e3f51c616
+    - name: Buff n Debuff P4 04_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 26
+        width: 55
+        height: 19
+      spriteId: 8f6b716f4e6fa954fb2e50d101d9e009
+    - name: Buff n Debuff P4 04_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 9
+        y: 30
+        width: 51
+        height: 19
+      spriteId: 6108ccc5e54fd214c856aafcbd209d84
+    - name: Buff n Debuff P4 04_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 15
+        y: 32
+        width: 45
+        height: 17
+      spriteId: 512782dd093b9874583addb96b7edc6c
+    - name: Buff n Debuff P4 04_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 18
+        y: 41
+        width: 39
+        height: 8
+      spriteId: 1753eda72f5eaaa4198458223405c1ff
+    - name: Buff n Debuff P4 04_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 18
+        y: 46
+        width: 21
+        height: 3
+      spriteId: fd8aad58af5449e4d8db15243ffe95bc
+    - name: Buff n Debuff P4 04_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 4
+        y: 13
+        width: 56
+        height: 36
+      spriteId: 2b8ced53353f69d4aaef979a40b854dd
+    - name: Buff n Debuff P4 04_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 4
+        y: 13
+        width: 56
+        height: 36
+      spriteId: 99d2011abaed3024d99b1b2b0b179bf1
+    - name: Buff n Debuff P4 04_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 11
+        y: 14
+        width: 26
+        height: 24
+      spriteId: 7a6a26a2929c3ec4482112f2aacfea4e
+    - name: Buff n Debuff P4 04_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 13
+        width: 46
+        height: 31
+      spriteId: 9b079e6d276a4ee4ba8a4e25e305af7a
+    - name: Buff n Debuff P4 04_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 13
+        width: 49
+        height: 31
+      spriteId: 362e6694ea6ba9946a07eb8fdf4b29db
+    - name: Buff n Debuff P4 04_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 12
+        width: 51
+        height: 35
+      spriteId: dd6a7ae26addc064989f0f1e9d3c7527
+    - name: Buff n Debuff P4 04_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 12
+        width: 51
+        height: 37
+      spriteId: f804888be3df5254ea5e60fd23fcde13
+    - name: Buff n Debuff P4 04_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 9
+        y: 13
+        width: 51
+        height: 37
+      spriteId: 604196e3f503830409922ac2816582ca
+    - name: Buff n Debuff P4 04_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 9
+        y: 13
+        width: 51
+        height: 37
+      spriteId: b7e4cee272044ca4bacff936ff1bb014
+    - name: Buff n Debuff P4 04_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 15
+        y: 28
+        width: 45
+        height: 23
+      spriteId: a5b562354f9ff5243b67e42199a3440b
+    - name: Buff n Debuff P4 04_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 15
+        y: 28
+        width: 45
+        height: 23
+      spriteId: 887c08f3b2a9ebf47918ba090ba3505f
+    - name: Buff n Debuff P4 04_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 15
+        y: 40
+        width: 11
+        height: 11
+      spriteId: a3171458e1d3d7d469dba6f0686f13c0
+    - name: Buff n Debuff P4 04_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 15
+        y: 40
+        width: 10
+        height: 9
+      spriteId: 140539158f98f0043aec66c0a3db2dfa
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}

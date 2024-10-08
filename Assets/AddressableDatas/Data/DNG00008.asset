@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 365d362b47160a94dac54c157d43aca3, type: 3}
+  m_Name: DNG00008
+  m_EditorClassIdentifier: 
+  <DungeonNum>k__BackingField: 8
+  <SpawnInfo>k__BackingField:
+  - rcode: MOB00001
+    spawnRate: 66
+    clearPoint: 24
+  - rcode: MOB00006
+    spawnRate: 83
+    clearPoint: 10
+  - rcode: MOB00007
+    spawnRate: 100
+    clearPoint: 16
+  <TotalClearPoint>k__BackingField: 600
+  <MonsterStatModifier>k__BackingField:
+    StatChangeType: 3
+    Atk: 1.7
+    Health: 1.7
+    Defense: 1.7
+    AttackSpeed: 1
+    MoveSpeed: 1
+    AttackRange: 1
+    AtkMultiplier: 1
+    HealthMultiplier: 1
+    DefenseMultiplier: 1
+    AttackSpeedMultiplier: 1
+    MoveSpeedMultiplier: 1
+  <Rewards>k__BackingField:
+  - type: 2
+    amount: 97435
+  - type: 1
+    amount: 1948

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 07f2e510237e1ec4dbad7a10de5618ad
+  m_SerializeEntries:
+  - m_GUID: 06d535ae81c49ea48afdc84274f502c6
+    m_Address: Assets/AddressableDatas/UI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InitDownload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c715ce234fe224c4d8f6b19c476ac0e5
+    m_Address: Assets/AddressableDatas/UI/addressableMap.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AddressableMap
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 36a61b5e3068f5444b4cb257c56f2db5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 176413d765ae29647b1b84cf3b8ba5a9, type: 2}
+    - {fileID: 11400000, guid: 895971f3bb1778b4cb7eda9c85a31920, type: 2}

@@ -1,0 +1,329 @@
+
+�� ************************************************** ��
+�� ********** - SALASPITG Material vol. 1 - ********* ��
+�� *** VFX Asset pack Chain and Magic User Manual *** ��
+�� ************************************************** ��
+
+
+�� Index�iEnglish�j ----------------------------------------
+
+ - Foreword
+ - Pack Content
+ - How to Use
+ - Required Specifications
+ - Terms
+ - Copyright
+ - Support
+ - Credit
+
+
+�� Foreword ----------------------------------------
+
+Thank you for downloading "VFX Asset pack Chain and Magic" !
+Please, always read this manual carefully, before installing and using the product.
+
+�� About "VFX Asset pack Chain and Magic" ("This Software")
+
+This software is a pack for battle effects using "Chain".
+4 Chain attack patterns and 10 elements.
+2 Magic attack patterns and 10 elements.
+(Physical, Fire, Ice, Thunder, Water, Wind, Earth, Light, Darkness, Neutral)
+
+In total, the pack contains effect materials for 40 Chain attacks and 20 Magic attacks.
+
+You can make your Chainmaster characters fight with the effects right away!
+
+
+�� Pack Content ----------------------------------------
+
+�� VFX Asset pack Chain and Magic User Manual (.txt)
+ * This document.
+
+�� RPG Maker MZ Demo Project (SALASPITG_Chain_and_Magic_DEMO)
+ * You can copy-paste the animation from this demo project into your own project.
+
+�� Effekseer (.efkefc) Animation Files �~ 60
+ 01. SingleHit Physical
+ 02. SingleHit Fire
+ 03. SingleHit Ice
+ 04. SingleHit Thunder
+ 05. SingleHit Water
+ 06. SingleHit Earth
+ 07. SingleHit Wind
+ 08. SingleHit Light
+ 09. SingleHit Darkness
+ 10. SingleHit Neutral
+ 11. CurvedHit Physical
+ 12. CurvedHit Fire
+ 13. CurvedHit Ice
+ 14. CurvedHit Thunder
+ 15. CurvedHit Water
+ 16. CurvedHit Earth
+ 17. CurvedHit Wind
+ 18. CurvedHit Light
+ 19. CurvedHit Darkness
+ 20. CurvedHit Neutral
+ 21. DoubleHits Physical
+ 22. DoubleHits Fire
+ 23. DoubleHits Ice
+ 24. DoubleHits Thunder
+ 25. DoubleHits Water
+ 26. DoubleHits Earth
+ 27. DoubleHits Wind
+ 28. DoubleHits Light
+ 29. DoubleHits Darkness
+ 30. DoubleHits Neutral
+ 31. OctupleHits Physical
+ 32. OctupleHits Fire
+ 33. OctupleHits Ice
+ 34. OctupleHits Thunder
+ 35. OctupleHits Water
+ 36. OctupleHits Earth
+ 37. OctupleHits Wind
+ 38. OctupleHits Light
+ 39. OctupleHits Darkness
+ 40. OctupleHits Neutral
+ 41. MagicOne Physical
+ 42. MagicOne Fire
+ 43. MagicOne Ice
+ 44. MagicOne Thunder
+ 45. MagicOne Water
+ 46. MagicOne Earth
+ 47. MagicOne Wind
+ 48. MagicOne Light
+ 49. MagicOne Darkness
+ 50. MagicOne Neutral
+ 51. MagicAll Physical
+ 52. MagicAll Fire
+ 53. MagicAll Ice
+ 54. MagicAll Thunder
+ 55. MagicAll Water
+ 56. MagicAll Earth
+ 57. MagicAll Wind
+ 58. MagicAll Light
+ 59. MagicAll Darkness
+ 60. MagicAll Neutral
+
+�� Movie (.avi) Files �~ 60
+ * RGBA output silent video file with alpha channel (transparency).
+ * No sound effects.
+
+�� Textures for replacement (.png) Files �~ 4
+ * 1 default, 3 replacements
+ ChainN1_01
+ ChainN1_02
+ ChainN1_03
+ ChainN1_04
+
+�� Image (.png) Files �~ 9
+ battlebacks1 / SALASPITG_battleback1
+ battlebacks1 / SALASPITG_battleback2
+ pictures / thumb00
+ pictures / thumb01
+ pictures / thumb02
+ pictures / thumb03
+ pictures / thumb04
+ pictures / thumb05
+ pictures / thumb06
+
+�� Plugins / libs Files (Provided by https://effekseer.github.io/en/)
+ * These files are required for use with "RPG Maker MZ".
+ * If your project is the latest version of "RPG Maker MZ", installation is not required.
+ plugins / EffekseerForRPGMakerMZ_Ex.js
+ libs / effekseer.min.js
+ libs / effekseer.wasm
+
+�� Correspondence Table
+ * Table listing all the textures used in the Animation Files.
+ UsingMaterials.png
+
+
+�� How to Use ----------------------------------------
+
+�� To prevent problems, be sure to back up your project before using the material.
+
+�� Folder Contents
+ SALASPITG_01_Chain_and_Magic_Demo : Demo project (game.rmmzproject)
+ effects : Effekseer (.efkefc) Animation Files, Texture (.png) Files for effects
+ js : Plugins (.js) Files. These files are required for use with "RPG Maker MZ".
+ img : Image (.png) Files. It can also be used as a material.
+
+�� Installing the VFX Assets
+ 01. Copy (Right-click �� Copy) the "effects" folder. (If necessary, copy the "js" folder as well.)
+ 02. Open the folder of your "RPG Maker MZ" project.
+ 03. Paste  (Right-click �� Paste) into the project file (game.rmmzproject) hierarchy.
+ * You can use animations on the database.
+
+�� Installing "RPG Maker MZ" Presets
+ 01. Complete "Installing the VFX Assets" beforehand.
+ 02. Open the RPG Maker MZ Demo project.
+ 03. Open the Database, and navigate to the Animations tab. Copy any animation.
+ * Holding down the Shift key and left-clicking on a list allows multiple selections.
+ 04. Open your own "RPG Tool MZ" project.
+ 05. Open the Database, and navigate to the Animations tab. Paste into the list.
+ * Perform "change maximum" in advance, if necessary.
+
+�� Replacement of chain texture
+ * The shape of the animation "chain" can be changed.
+ * You can also use your own images. However, we do not guarantee the operation.
+
+ 01. complete "Installing the VFX Assets" beforehand.
+ 02. Open the folder "effects / SALASPITG / Texture" and remove "ChainN1(.png)
+ 03. Open the "Chain" folder in it. Select and "copy" any image file.
+ 04. Return to the "Texture" folder. Then paste it.
+ 05. Rename the pasted image file to "ChainN1(.png)".
+
+
+�� Required Specifications ----------------------------------------
+
+�� What are the required specifications? About enough to run "RPG Maker MZ" properly.
+
+�� If the required specifications are not met, animation may be slow or laggy.
+
+�� WINDOWS :
+ OS�FWindows 8.1/10 (64bit)
+ Processor�FIntel Core i3-4340 or better
+ Memory: 8 GB RAM
+ Graphics�FCompatible OpenGL VRAM 1 GB or better
+
+
+�� MAC :
+ macOS : 10.13 or better
+ Processor�FIntel Core i3-4340 or better
+ Memory: 8 GB RAM
+ Graphics: Compatible OpenGL / VRAM 1GB or better
+
+
+�� RPG Maker MZ Version
+ * The following versions have been checked for operation.
+
+ RPG Maker MZ: 1.5.0
+ EffekseerForRPGMakerMZ_Ex.js : v1.62
+ effekseer.min.js : v1.62d
+
+�� Required Plugins
+ * "EffekseerForRPGMakerMZ_Ex.js" is required for use with RPG Maker MZ.
+ * v1.62 version is included in the "plugins" folder.
+
+
+�� Terms ----------------------------------------
+The following text is the Terms of Use ("Terms") for this software.
+It applies to the entire product ("This Software").
+
+
+�� Definitions
+ "This Software" : the product "VFX Asset pack Chain and Magic" and all the assets included in it.
+
+ "Modified File(s)" : Material newly created by modifying this software.
+
+ "Publisher" : SALASPITG CREATES and its affiliated partners.
+
+ "User" : The user who has duly purchased this software.
+
+ "Terms" : All text in the "��Terms" section of this document.
+
+
+�� Terms of Use
+
+ 01. "This Software" can be used for "Game Projects". It can be used with development tools other than RPG Maker MZ.
+
+ 02. "This Software" can be used for "Non-Game Projects". Illustrations, movies, etc.
+
+ 03. "This Software" can be used for Eroge and violent games.
+
+ 04. "This Software" can be used for commercial and non-commercial projects. 
+
+ 05. "This Software" can be used even after its sale, publication, or distribution has ended. "Terms" must be observed.
+
+ 06. "This Software" can be used with modifications. For example, Change the color, size, texture, tempo, and sound effects. Add, move, or delete particles.
+
+�� Prohibitions
+ 01. "This Software" and "Modified File(s)" may not be published, distributed, or sold in any way other than for integration into a project.
+
+
+�� Disclaimer
+ 01. These terms and conditions are subject to change without prior notice.
+
+ 02. By using "This Software", "User" is deemed to have agreed to these "Terms".
+
+ 03. "User" shall purchase and use "This Software" at its own risk and expense.
+
+ 04. In the absence of gross negligence, Publisher shall not be liable for :
+ Any damage or trouble with third parties resulting from the use of "This Software" or from the publication, distribution, or sale of projects using "This Software".
+
+
+�� Copyright ----------------------------------------
+
+�� All ownership, copyrights, and other rights to "This Software" belong to SALASPITG CREATES and its affiliated partners.
+
+�� Also "Modified File(s)".
+
+�� Projects that use "This Software" (directly or indirectly) must give credit when publishing, distributing, or selling it.
+ Example 1 : VFX Asset pack Chain and Magic (C) SALASPITG CREATES
+ Example 2 : Animations SALASPITG CREATES
+
+
+�� FAQ ----------------------------------------
+
+ Q 01. Are the included materials copyright-free(license free)?
+ A 01. No, it is not copyright-free(license free).
+
+ Q 02. Are "Modified File(s)" created using the included materials copyright-free(license free)?
+ A 02. No, it is not copyright-free(license free).
+
+ Q 03. Can I use the assets included in the sample version for games, etc.?
+ A 03. Yes, you can if you follow "Terms". Same as the full version.
+
+ Q 04. When I play an animation in "RPG Maker MZ", there is a gray/black shadow around the animation.
+ A 04. The version of "RPG Maker MZ" may be old. This is a known bug identified in "RPG Maker MZ" version 1.0 and fixed in version 1.0.2. Please update your "RPG Maker MZ" to the latest version.
+
+ Q 05. Animations are not displayed in "RPG Maker MZ".
+ A 05. Two different reasons are possible.
+ * The version of "RPG Maker MZ" may be old. Version 1.3.1 has been updated to support Effekseer 1.6. "This Software" was created with Effekseer 1.6 and cannot be played with earlier versions; Please update "RPG Tskool MZ" to the latest version.
+ * Texture files may not be installed in the correct location. Please check the "��How to Use" section.
+ As an example, please check if the folder hierarchy is as follows.
+ ... / Effects / SALASPITG / ef01_02_SingleHit_Fire.efkefc
+ ... / Effects / SALASPITG / Textures / ChainN1.png
+
+ Q 06. When I play an animation in "RPG Maker MZ", some particles are not displayed.
+ A 06. EffekseerForRPGMakerMZ_Ex.js may not be installed. If the plugin is not installed, the number of particles that can be displayed will be limited.
+ Put EffekseerForRPGMakerMZ_Ex.js into the "plugins" folder of your project.
+ Open the "RPG Maker MZ" plugin settings window and check that it has been installed.
+ Be sure to save the project after installation.
+
+
+�� Support ----------------------------------------
+
+If you have any questions about this software, please email us at this address.
+Please note that we will only ask questions about this software.
+
+��Address : salaspitg+contact@gmail.com
+
+Product information is posted on Twitter.
+Please check for the latest bug and update information before contacting us.
+
+��Twitter : https://twitter.com/salaspitg
+
+�� Credit ----------------------------------------
+Credits for materials used in the demo project.
+(We do not support them.)
+
+�� EffekseerForRPGMakerMZ_Ex.js�@Effekseer (MIT license)
+�� SimpleMsgSideViewMZ.js�@Sasuke KANNAZUKI (MIT license)
+�� MPP_Pseudo3DBattle.js�@Mokusei Penguin (MIT license)
+
+
+�� SoundEffects Characters Enemy SystemGraphic
+ 
+�� RPG Maker MZ Official Materials
+ * This software follows the terms of use of the RPG MAKER series.
+ PluginCommonBase.js triacontane
+ Materials in "audio/se", "img/characters", "img/enemies", "img/faces", "img/sv_actors", "img/sv_enemies", "img/system", "fonts" and "icon" folders
+
+
+�� ************************************************** ��
+�� ********** - SALASPITG Material vol. 1 - ********* ��
+�� *** VFX Asset pack Chain and Magic User Manual *** ��
+�� ***************** Sample Edition ***************** ��
+�� ************************************************** ��
+*The RPG Maker brand and "RPG Maker MZ" are owned by their respective owners in respective regions and are not affiliated with SALASPITG CREATES.

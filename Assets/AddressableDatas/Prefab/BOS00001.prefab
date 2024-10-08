@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8830760712300477774
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1742907134417398811, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_Name
+      value: BOS00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1742907134417398811, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3333180436724036903, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: grade
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: stars
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.Atk
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.Atk
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.Health
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.Health
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.MoveSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.MoveSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.AttackRange
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.AttackSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.AttackRange
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.AttackSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.AtkMultiplier
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.AtkMultiplier
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.StatChangeType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.StatChangeType
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.HealthMultiplier
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.HealthMultiplier
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.DefenseMultiplier
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.DefenseMultiplier
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.MoveSpeedMultiplier
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.MoveSpeedMultiplier
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: curStat.AttackSpeedMultiplier
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456140638397669672, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}
+      propertyPath: baseStat.AttackSpeedMultiplier
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 163b4de4bac379c4a94faea7b6e626ac, type: 3}

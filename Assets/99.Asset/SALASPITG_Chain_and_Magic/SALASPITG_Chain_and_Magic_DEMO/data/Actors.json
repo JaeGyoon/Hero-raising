@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_6","characterIndex":5,"characterName":"Actor3","classId":1,"equips":[1],"faceIndex":5,"faceName":"Actor3","traits":[{"code":51,"dataId":1,"value":0},{"code":52,"dataId":1,"value":0}],"initialLevel":1,"maxLevel":99,"name":"Demo 1","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":1,"equips":[1],"faceIndex":4,"faceName":"Actor3","traits":[{"code":51,"dataId":1,"value":0},{"code":52,"dataId":1,"value":0}],"initialLevel":1,"maxLevel":99,"name":"Demo 2","nickname":"","note":"","profile":""}
+]

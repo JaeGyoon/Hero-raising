@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7b49613da888254e991c0bd3da49259, type: 3}
+  m_Name: Common_Tanker
+  m_EditorClassIdentifier: 
+  hid: 100
+  roleType: 0
+  icon: {fileID: 21300000, guid: 320eb34d5c0c60f48aef044f1c96bda0, type: 3}
+  heroName: "\uBC14\uB974\uAC00\uC2A4"
+  heroDescription: "\uD5D8\uC900\uD55C \uBD81\uBD80 \uC0B0\uB9E5\uC5D0\uC11C \uD0DC\uC5B4\uB098
+    \uAC70\uCE5C \uD658\uACBD\uC5D0\uC11C \uC0DD\uC874\uD558\uB294 \uBC29\uBC95\uC744
+    \uD130\uB4DD\uD55C \uC804\uC0AC\uC785\uB2C8\uB2E4."
+  RCode: HER00002
+  multipleStat:
+    StatChangeType: 3
+    Atk: 0.5
+    Health: 0.5
+    Defense: 0.5
+    AttackSpeed: 1
+    MoveSpeed: 1
+    AttackRange: 1
+    AtkMultiplier: 1
+    HealthMultiplier: 1
+    DefenseMultiplier: 1
+    AttackSpeedMultiplier: 1
+    MoveSpeedMultiplier: 1
+    CritRate: 1
+    CritMultiplier: 1
+    SkillMultiplier: 1
+    DamageMultiplier: 1
+    HealMultiplier: 1
+  PassiveStat:
+    StatChangeType: 0
+    Atk: 0
+    Health: 20
+    Defense: 0
+    AttackSpeed: 0
+    MoveSpeed: 0
+    AttackRange: 0
+    AtkMultiplier: 0
+    HealthMultiplier: 1
+    DefenseMultiplier: 0
+    AttackSpeedMultiplier: 0
+    MoveSpeedMultiplier: 0
+    CritRate: 0
+    CritMultiplier: 0
+    SkillMultiplier: 0
+    DamageMultiplier: 0
+    HealMultiplier: 0
+  gradeStatModifier:
+    StatChangeType: 1
+    Atk: 10
+    Health: 10
+    Defense: 10
+    AttackSpeed: 0
+    MoveSpeed: 0
+    AttackRange: 0
+    AtkMultiplier: 0
+    HealthMultiplier: 0
+    DefenseMultiplier: 0
+    AttackSpeedMultiplier: 0
+    MoveSpeedMultiplier: 0
+    CritRate: 0
+    CritMultiplier: 0
+    SkillMultiplier: 0
+    DamageMultiplier: 0
+    HealMultiplier: 0
+  starsStatModifier:
+    StatChangeType: 2
+    Atk: 10
+    Health: 10
+    Defense: 10
+    AttackSpeed: 0
+    MoveSpeed: 0
+    AttackRange: 0
+    AtkMultiplier: 0
+    HealthMultiplier: 0
+    DefenseMultiplier: 0
+    AttackSpeedMultiplier: 0
+    MoveSpeedMultiplier: 0
+    CritRate: 0
+    CritMultiplier: 0
+    SkillMultiplier: 0
+    DamageMultiplier: 0
+    HealMultiplier: 0
